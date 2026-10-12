@@ -1,8 +1,8 @@
 # Hello, world!
 ## About Me
-- **Name:** Gildong Hong
-- **Major:** Composition
-## A Piece of Music I Love
-*Symphony No. 5* by Ludwig van Beethoven
+- **Name:** Chanseo Lee
+- **Major:** Organic and nano engineering 
+##  sport i love
+basketball 
 ## Our Course Database
 [medicalhumanitiesmusic-2026-1](https://github.com/hskye79/medicalhumanitiesmusic-2026-1)
